@@ -1,0 +1,25 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"test title",
+            "img":"http://bborasen.com/ae2/post3.jpg"
+        },
+        {
+            "id":2,
+            "title":"test title",
+            "img":"http://bborasen.com/ae2/post2.jpg"
+        },
+        {
+            "id":3,
+            "title":"test title",
+            "img":"http://bborasen.com/ae2/post1.jpg"
+        },
+        {
+            "id":4,
+            "title":"test title",
+            "img":"http://bborasen.com/ae2/post4.jpg"
+        }
+
+    ]
+}
